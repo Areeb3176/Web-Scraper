@@ -1,0 +1,18 @@
+# Flask and Server
+flask
+flask-cors
+gunicorn
+
+# Configuration
+python-dotenv
+
+# Supabase Database Client
+supabase
+
+# AI and LLM
+litellm
+pydantic
+
+# Web Scraping and Markdown
+crawl4ai
+playwright
